@@ -1,0 +1,16 @@
+C:\Users\Teacher\source\repos\database\database\bin\Debug\database.exe.config
+C:\Users\Teacher\source\repos\database\database\bin\Debug\database.exe
+C:\Users\Teacher\source\repos\database\database\bin\Debug\database.pdb
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.csprojAssemblyReference.cache
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.Form1.resources
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.exe
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.pdb
+C:\Users\Teacher\source\repos\database\database\bin\Debug\MySql.Data.dll
+C:\Users\Teacher\source\repos\database\database\bin\Debug\MySql.Web.dll
+C:\Users\Teacher\source\repos\database\database\bin\Debug\Google.Protobuf.dll
+C:\Users\Teacher\source\repos\database\database\bin\Debug\MySql.Data.xml
+C:\Users\Teacher\source\repos\database\database\bin\Debug\MySql.Web.xml
+C:\Users\Teacher\source\repos\database\database\obj\Debug\database.csproj.CopyComplete
